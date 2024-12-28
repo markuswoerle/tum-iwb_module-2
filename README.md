@@ -6,7 +6,7 @@ This repository contains the research data used in the manuscript "Time series a
 
 ### Datasets
 - hydrogen_demand_profile.csv
-- hydrogen_demand_profile_cycles.csv**
+- hydrogen_demand_profile_cycles.csv
 - amplitudes_single_sided_normalized.csv
 - configuration_01_electrolyzer_power.csv
 - configuration_02_electrolyzer_power.csv
