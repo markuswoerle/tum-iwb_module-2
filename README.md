@@ -30,9 +30,13 @@ This repository contains the research data used in the manuscript "Time series a
 - **storage_levels_percentile_025_1500.csv**: Description.
 
 ### MATLAB Scripts
-- **analysis_script.m**: Main script for statistical analysis and data preprocessing.
-- **visualization_script.m**: Script for creating plots and graphs used in the research paper.
-- **custom_functions.m**: Contains helper functions for data manipulation and computations.
+- **main.m**: Description.
+- **periodicity.m**: Description.
+- **dimensioning.m**: Description.
+- **costs.m**: Description.
+- **constraints.m**: Description.
+- **storage.m**: Description.
+- **soc.m**: Description.
 
 ---
 
