@@ -1,12 +1,33 @@
 # Research Data
 
-This repository contains the research data used in the manuscript "Time series analysis-based dimensioning of decentralized hydrogen production systems for manufacturing applications" by Markus Woerle, Erik Nitzschke, Daniel Schneider, and Michael F. Zaeh.
+This repository contains the research data used in the manuscript "Time series analysis-based dimensioning of decentralized hydrogen production systems for manufacturing applications" by Markus Woerle, Erik Nitzschke, Daniel Schneider, and Michael F. Zaeh (DOI: tbd.).
 
 ## Documentation
 
 ### Datasets
-- **Dataset1**: Description of dataset1 (e.g., source, format, and usage in research).
-- **Dataset2**: Description of dataset2 (e.g., source, format, and usage in research).
+- **hydrogen_demand_profile.csv**: Description.
+- **hydrogen_demand_profile_cycles.csv**: Description.
+- **amplitudes_single_sided_normalized.csv**: Description.
+- **electrolyzer_powers_maximum_025_1000.csv**: Description.
+- **electrolyzer_powers_maximum_000_1000.csv**: Description.
+- **electrolyzer_powers_maximum_050_1000.csv**: Description.
+- **electrolyzer_powers_maximum_025_500.csv**: Description.
+- **electrolyzer_powers_maximum_025_1500.csv**: Description.
+- **electrolyzer_powers_percentile_025_1000.csv**: Description.
+- **electrolyzer_powers_percentile_000_1000.csv**: Description.
+- **electrolyzer_powers_percentile_050_1000.csv**: Description.
+- **electrolyzer_powers_percentile_025_500.csv**: Description.
+- **electrolyzer_powers_percentile_025_1500.csv**: Description.
+- **storage_levels_maximum_025_1000.csv**: Description.
+- **storage_levels_maximum_000_1000.csv**: Description.
+- **storage_levels_maximum_050_1000.csv**: Description.
+- **storage_levels_maximum_025_500.csv**: Description.
+- **storage_levels_maximum_025_1500.csv**: Description.
+- **storage_levels_percentile_025_1000.csv**: Description.
+- **storage_levels_percentile_000_1000.csv**: Description.
+- **storage_levels_percentile_050_1000.csv**: Description.
+- **storage_levels_percentile_025_500.csv**: Description.
+- **storage_levels_percentile_025_1500.csv**: Description.
 
 ### MATLAB Scripts
 - **analysis_script.m**: Main script for statistical analysis and data preprocessing.
