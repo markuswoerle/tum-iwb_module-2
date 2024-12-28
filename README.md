@@ -2,13 +2,11 @@
 
 This repository contains the research data used in the manuscript "Time series analysis-based dimensioning of decentralized hydrogen production systems for manufacturing applications" by Markus Woerle, Erik Nitzschke, Daniel Schneider, and Michael F. Zaeh.
 
-## Detailed Documentation
+## Documentation
 
 ### Datasets
 - **Dataset1**: Description of dataset1 (e.g., source, format, and usage in research).
 - **Dataset2**: Description of dataset2 (e.g., source, format, and usage in research).
-
-Detailed information about each dataset, including data schema, pre-processing steps, and citation information, is provided in this document or accompanying notes.
 
 ### MATLAB Scripts
 - **analysis_script.m**: Main script for statistical analysis and data preprocessing.
