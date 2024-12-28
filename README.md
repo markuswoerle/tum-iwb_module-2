@@ -38,8 +38,6 @@ This repository contains the research data used in the manuscript "Time series a
 - storage.m
 - soc.m
 
----
-
 ## License
 
 This repository is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
