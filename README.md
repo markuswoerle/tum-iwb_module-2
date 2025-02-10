@@ -46,7 +46,7 @@ The following files contain the results data that is visualized in the paper:
 - configuration_09_storage_level.csv
 - configuration_10_storage_level.csv
 
-## Ackknowledgements
+## Acknowledgements
 This research was funded by the German Federal Ministry of Education and Research (BMBF) as part of the Kopernikus project SynErgie (03SFK3E1-3).
 
 ## License
