@@ -74,7 +74,7 @@ function [hydrogen_demand_profile_cycle_based,number_of_data_points_per_cycle] =
     grid on;
     xlim([sampling_frequency/number_of_data_points max(frequencies(1:number_of_data_points/2+1))]);
     xlabel('Frequency / Hz \rightarrow');
-    ylabel('Amplitude / dimensionless \rightarrow');
+    ylabel('Amplitude / Nm^3/h \rightarrow');
     title('Single-sided amplitude spectrum');
     
     % Plotting the cycle-based hydrogen demand profile and the individual hydrogen demand profiles
