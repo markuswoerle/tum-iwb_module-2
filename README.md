@@ -47,7 +47,7 @@ The following files contain the output data of the case study described in the p
 - configuration_10_storage_level.csv
 
 ## Acknowledgements
-This research was funded by the German Federal Ministry of Education and Research (BMBF) as part of the Kopernikus project SynErgie (03SFK3E1-3).
+This research was funded by the German Federal Ministry of Research, Technology and Space (BMFTR) as part of the Kopernikus project SynErgie (03SFK3E1-3).
 
 ## License
 This repository is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
