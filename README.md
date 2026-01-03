@@ -17,7 +17,7 @@ The following files contain the MATLAB code that was used to evaluate the case s
 - storage.m
 - soc.m
 
-### Input file
+### Input files
 The following files contain the input data of the case study described in the paper:
 - hydrogen_demand_profile.csv
 - hydrogen_demand_profile_extended.csv
