@@ -1,5 +1,5 @@
 # Research Data
-This repository contains the research data used in the manuscript "Time series analysis-based dimensioning of decentralized hydrogen production systems for manufacturing applications" by Markus Woerle, Erik Nitzschke, Daniel Schneider, and Michael F. Zaeh (Production Engineering, DOI: 10.1007/s11740-025-01394-3).
+This repository contains the research data used in the manuscript "Time series analysis-based dimensioning of decentralized hydrogen production systems for manufacturing applications" by Markus Woerle, Erik Nitzschke, Daniel Schneider, and Michael F. Zaeh (Production Engineering 20:25, DOI: 10.1007/s11740-025-01394-3).
 
 ## Contact
 Markus Woerle (markus.woerle@iwb.tum.de)
