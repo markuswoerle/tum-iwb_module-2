@@ -13,11 +13,11 @@ function [inequality_constraints,equality_constraint] = constraints(electrolyzer
     load_gradient_constraint = abs(diff(electrolyzer_powers))*sampling_frequency-load_gradient_max;
     
     % Specifying the partial load capability
-    gamma = 0.25;  % // Configurations: 0, 0.25, 0.5
+    lambda = 0.25;  % // Configurations: 0, 0.25, 0.5
     electrolyzer_power_max = max(electrolyzer_powers);
 
     % Specifying the partial load constraint
-    partial_load_constraint = gamma*electrolyzer_power_max-electrolyzer_powers;
+    partial_load_constraint = lambda*electrolyzer_power_max-electrolyzer_powers;
     
     % Specifying the inequality constraints
     inequality_constraints = [load_gradient_constraint;partial_load_constraint];
