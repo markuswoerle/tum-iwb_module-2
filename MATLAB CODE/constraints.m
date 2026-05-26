@@ -26,6 +26,6 @@ function [inequality_constraints,equality_constraint] = constraints(electrolyzer
     states_of_charge = soc(electrolyzer_powers,hydrogen_demand_profile_cycle,number_of_data_points_per_cycle);
     
     % Specifying the equality constraint
-    equality_constraint = states_of_charge(end)-states_of_charge(1);
+    equality_constraint = states_of_charge(end);
 
 end
